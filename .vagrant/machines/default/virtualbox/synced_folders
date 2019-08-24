@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/cookbooks":{"guestpath":"/home/vagrant/cookbooks","hostpath":"/Users/garimagarg/projects/chef/cookbooks","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/garimagarg/projects/chef","disabled":false,"__vagrantfile":true}}}
